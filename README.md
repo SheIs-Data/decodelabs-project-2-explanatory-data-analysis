@@ -149,15 +149,14 @@ monitoring.
 ## 📁 Repository Structure
 
 ```text
-├── data/
-│ └── cleaned/
+├── Cleaned data/
 │
-├── project/
+├── Project/
 │   └── DecodeLabs_Project_2_EDA.xlsx
 │
-├── visuals/
+├── Visuals/
 │
-├── documentation/
+├── Documentation/
 │   ├── Data_Dictionary.md
 │   └── Methodology.md
 │
